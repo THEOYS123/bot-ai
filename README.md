@@ -18,3 +18,5 @@ npm install dotenv axios @whiskeysockets/baileys @google/generative-ai pino qrco
 ls -a
 node index.js
 ```
+# screenshoot 📸
+[screenshoot](Screenshot_20251024_084429.jpg) 
